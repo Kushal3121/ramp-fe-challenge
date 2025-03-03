@@ -7,3 +7,5 @@ Bug Fixes:
 - Bug 5: Fixed employee filter loading issue by ensuring employee loading state is independent of transaction fetching.
 - Bug 6: Fixed "View More" button visibility issues by hiding it for filtered transactions and removing it when no more data is available.
 - Bug 7: Persist transaction approval status when switching employee filters.
+
+CodeSandbox - https://codesandbox.io/p/sandbox/c4rqnt
